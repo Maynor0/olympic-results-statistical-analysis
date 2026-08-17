@@ -1,4 +1,4 @@
-﻿# Base 4 – Análisis de resultados olímpicos
+﻿# Análisis de resultados olímpicos
 
 ## Objetivo
 Analizar una base de resultados olímpicos para explorar diferencias entre tipos de Juegos, países, deportes y evolución temporal, utilizando Python y SciPy para estadística descriptiva e inferencial.
