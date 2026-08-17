@@ -1,4 +1,4 @@
-## Conclusiones de la Base 4: Medallero olímpico
+## Conclusiones de la Base: Medallero olímpico
 
 El análisis de la Base 4 permitió explorar distintos aspectos del medallero olímpico, tanto a nivel descriptivo como inferencial. A partir de la limpieza de los datos y de la construcción de nuevas variables, se pudieron comparar temporadas, países y disciplinas deportivas, además de evaluar tendencias temporales y asociaciones entre variables categóricas.
 
